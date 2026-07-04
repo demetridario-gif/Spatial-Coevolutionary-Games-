@@ -7,7 +7,7 @@ This repository contains the core simulation framework developed for the Master'
 Author: Dario Demetri  
 Master's Degree in Physics, University of Pavia  
 Supervisor: Prof. Giacomo Livan  
-Co-supervisors: Dr. Giacomo Frigerio, Dr. Federico Maria Quetti
+Co-supervisors: Dr. Giacomo Frigerio, Dr. Federico Maria Quetti  
 Academic Year: 2025--2026
 
 ## Overview
