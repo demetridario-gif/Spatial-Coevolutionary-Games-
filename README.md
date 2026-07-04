@@ -46,8 +46,7 @@ The main libraries used are:
 - `json` and `npz` files, for metadata, checkpoints and numerical outputs.
 
 A key implementation choice is that networks are generated with `NetworkX`
-but are converted before the simulation into compact CSR-like arrays
-(`indptr`, `indices`, `degree`). This avoids using high-level graph objects
+but are converted before the simulation into compact CSR-like arrays. This avoids using high-level graph objects
 inside the Monte Carlo loop and makes the code much faster.
 
 The computational core is implemented with `Numba`. In particular, payoff
