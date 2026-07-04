@@ -4,7 +4,7 @@ This repository contains the core simulation framework developed for the Master'
 
 **Coevolutionary Games on Structured Populations: A Statistical Mechanics Approach**
 
-Author: Dario Demetri 
+Author: Dario Demetri  
 Master's Degree in Physics, University of Pavia  
 Supervisor: Prof. Giacomo Livan  
 Co-supervisors: Dr. Giacomo Frigerio, Dr. Federico Maria Quetti
